@@ -1,0 +1,2 @@
+# premium-scale-armor-001-scale-armor-lacing-pattern-cal
+Stop wasting hours manually calculating scale armor lacing patterns—one wrong overlap and your entire project unravels.  The Scale Armor Lacing Pattern Calculator eliminates guesswork by automating the math behind every row and column. Designed for Notion, it turns your raw scale dimensions and desired overlap into a precise, repeatable pattern—sav
